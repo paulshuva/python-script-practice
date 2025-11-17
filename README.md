@@ -54,3 +54,7 @@ https://prepaid.desco.org.bd/api/unified/customer/getBalance?accountNo=
 ```
 
 So please test this endpoint with your DESCO account and first verify that this is working for your meter.
+
+## Additional Resources
+
+For information about TensorLake, an open-source data infrastructure platform for unstructured data processing, see [TENSORLAKE.md](TENSORLAKE.md).
